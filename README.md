@@ -8,5 +8,5 @@ pip install selenium
 ```
 
 ### def guancha(keyword, page)
-#### keyword: searched keyword
-#### page: number of pages you would like to crawl
+-  keyword: searched keyword
+-  page: number of pages you would like to crawl
